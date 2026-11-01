@@ -1,0 +1,2 @@
+# virtualQ-miner
+quantus miner
